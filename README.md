@@ -5,17 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luiigengo" alt="luiigengo" /></a> </p>
 
-- 🔭 I’m currently working on **DRAFT IT**
+- 🔭 I’m currently working on **Pricemet**
 
 - 🌱 I’m currently learning **ReactJS and Node.**
 
 - 👯 I’m looking to collaborate on **All kinds of JS projects**
-
-- 🤝 I’m looking for help with **Anything**
-
-- 👨‍💻 All of my projects are available at [github.com/luiigengo](github.com/luiigengo)
-
-- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **luiigengo@hotmail.com**
 
