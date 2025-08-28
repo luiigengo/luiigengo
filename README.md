@@ -1,15 +1,11 @@
 ### Hi there 👋
 
 <h1>Lui Gengo</h1>
-<h3 align="center">A passionate FullStack developer from Brazil</h3>
+<h3 align="center">FullStack-Dev from Brazil</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luiigengo" alt="luiigengo" /></a> </p>
 
-- 🔭 I’m currently working on **Pricemet**
-
-- 🌱 I’m currently learning **ReactJS and Node.**
-
-- 👯 I’m looking to collaborate on **All kinds of JS projects**
+- 🔭 I’m currently working on **CHECK21**
 
 - 📫 How to reach me **luiigengo@hotmail.com**
 
